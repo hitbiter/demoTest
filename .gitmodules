@@ -1,0 +1,3 @@
+[submodule "baseDao"]
+	path = baseDao
+	url = https://github.com/hitbiter/baseDao.git
